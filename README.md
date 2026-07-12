@@ -23,8 +23,6 @@
   </a>
 </p>
 
----
-
 ### About Me
 
 - 🔐 Interested in **software development**, **backend engineering**, and **CTF challenges**
@@ -61,9 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalsabilaZaman&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SalsabilaZaman&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 <!--
